@@ -26,7 +26,7 @@ init_from_baseline = False
 uci_train_settings.update(
     dict(
         Naval_noisy=(
-            [200],
+            [100, 200, 500, 1000, 1500, 2000],
             {},
         ),  # Very sparse solution exists
     )
