@@ -4,7 +4,7 @@ from __future__ import print_function
 
 from shutil import copyfile, rmtree
 
-from observations.util import maybe_download_and_extract
+# from observations.util import maybe_download_and_extract
 
 from bayesian_benchmarks.data import *
 
